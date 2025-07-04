@@ -1,7 +1,7 @@
 # Analise-de-vendas
 Limpeza e análise de base de dados de pedidos de uma empresa do ramo industrial
 
-# Linguagens utilizadas:
+### Linguagens utilizadas:
 SQl,Python
 
 # Objetivo: 
