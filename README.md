@@ -15,15 +15,4 @@ Como os dados da empresa são confidenciais, **gerei uma base fictícia usando a
 
 ---
 
-## 🗂 Estrutura do Projeto
 
-```bash
-.
-├── data/                   # Base de dados gerada com faker
-│   └── base_simulada.csv
-├── notebooks/              # Notebooks com análise e modelagem de negócios
-│   └── analise_bigquery.ipynb
-├── src/                    # Scripts Python (ex: geração de dados, ETL)
-│   └── gerar_dados.py
-├── reports/                # Relatórios ou prints de resultados relevantes
-└── README.md               # Este documento
