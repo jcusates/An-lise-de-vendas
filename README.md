@@ -64,9 +64,9 @@ Com essa abordagem, foi possível:
 
 Identificar clientes com padrão de crescimento ou queda
 
-Destacar oportunidades de atuação proativa (como reengajamento de clientes com queda de performance)
+Destacar oportunidades de atuação (como reengajamento de clientes com queda de performance)
 
-Criar uma base sólida para futuras análises preditivas, como detecção de churn ou recomendação personalizada
+
 
 
 
